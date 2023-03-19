@@ -369,7 +369,7 @@ $(document).ready(function () {
     fifth();
 
 
-    $(".fa").click(function () {
+  $(".fa-brands").click(function () {
         window.location.href = "https://tjhsieh.github.io/c/dm/dm2023s/";
     })
 
